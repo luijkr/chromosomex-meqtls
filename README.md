@@ -1,5 +1,4 @@
-# Repository for manuscript "Autosomal genetic variation is associated with DNA methylation in regions variably escaping X-chromosome inactivation
-" by Luijk _et al_.
+# Repository for manuscript "Autosomal genetic variation is associated with DNA methylation in regions variably escaping X-chromosome inactivation" by Luijk _et al_.
 
 #### Calculate P-values for all SNP-CpG pairs
 
